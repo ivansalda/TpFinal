@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Amita:wght@700&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Amita:wght@700&family=Exo:wght@900&family=Salsa&display=swap');
+body {
+    background-color: rgba(156, 2, 2, 0.87);
+}
+h1 {
+font-family: Acme, serif;
+color: rgba(243, 207, 48, 0.87) ;
+}
+h2 {
+    font-family: Exo, serif;
+}
+h3 {
+    font-family: Exo, serif; 
+}
+h4 {
+    font-family: Exo, serif; 
+}
+h5 {
+    font-family: Exo, serif; 
+}
+p {
+    font-family: Exo, serif; 
+}
